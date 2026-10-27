@@ -138,7 +138,7 @@ const heroRef = useRef(null);
             scrollTrigger: {
               trigger: el, 
               start: "top 80%",    
-              toggleActions: "play reverse play reverse", 
+              toggleActions: "play none play reverse", 
             },
           });
         });
