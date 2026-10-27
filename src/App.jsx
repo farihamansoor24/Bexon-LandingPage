@@ -846,7 +846,7 @@ const faqData = [
                   className="h5-maquee-slider h5-maquee-slider-wrapper"
                 >
                    {[1,2,3,4,5,6,7].map((num, idx) => (
-                        <SwiperSlide key={`slide-ltr-${idx}`}>
+                        <SwiperSlide className="me-3" key={`slide-ltr-${idx}`}>
                           <div className="tj-project-thumb">
                             <img src={`/inner-pages/inner-${num}.webp`} alt={`Inner Page ${num}`} />
                           </div>
@@ -874,7 +874,7 @@ const faqData = [
                   className="h5-maquee-slider h5-maquee-slider-wrapper"
                 >
                    {[8, 9, 10, 11, 12, 13, 14].map((num, idx) => (
-                        <SwiperSlide key={`slide-rtl-${idx}`}>
+                        <SwiperSlide className="me-3" key={`slide-rtl-${idx}`}>
                           <div className="tj-project-thumb">
                             <img src={`/inner-pages/inner-${num}.webp`} alt={`Inner Page ${num}`} />
                           </div>
