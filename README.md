@@ -3,7 +3,8 @@
 A modern, high-performance corporate business landing page template built with **React.js**, **Vite**, and **GSAP (GreenSock Animation Platform)**. This project transforms a professional HTML template into a modular, interactive React single-page application.
 
 ## 🔗 Live Demo
-*(Aapka live deployment URL yahan daalein, e.g., Vercel / Netlify link)*
+[*(Live Deploy Vercel / Netlify link)*]
+(https://bexon-landing-page-silk.vercel.app/)
 
 ## ✨ Key Features
 - ⚡ **Advanced Text Animations:** Smooth character-by-character reveals using GSAP `SplitText` and `ScrollTrigger`.
@@ -32,4 +33,4 @@ Make sure you have **Node.js** installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/farihamansoor24/bexon-react-landing.git](https://github.com/your-username/bexon-react-landing.git)# Bexon-LandingPage
+   git clone [https://github.com/farihamansoor24/Bexon-LandingPage.git](https://github.com/farihamansoor24/Bexon-LandingPage.git)# Bexon-LandingPage
